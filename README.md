@@ -13,7 +13,7 @@ El objetivo es contar con un CV:
 
 ## 🌐 Demo
 
-👉 https://<tu-usuario>.github.io/<tu-repositorio>/
+👉 https://mkrmx.github.io/cv/
 
 ---
 
@@ -32,6 +32,7 @@ El objetivo es contar con un CV:
 
 ## 📁 Estructura del proyecto
 
+```
 .
 ├── assets/
 │ ├── css/
@@ -42,6 +43,7 @@ El objetivo es contar con un CV:
 ├── LICENSE
 ├── README.md
 └── index.html
+```
 
 ---
 
