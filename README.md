@@ -1,6 +1,7 @@
 # Curriculum Vitae — Marco Carrillo
 
-Este repositorio contiene mi **Curriculum Vitae en formato web estático**, publicado mediante **GitHub Pages**.
+Este repositorio contiene mi **Curriculum Vitae en formato web estático**, publicado mediante
+**GitHub Pages**.
 
 El objetivo es contar con un CV:
 - claro
@@ -11,7 +12,7 @@ El objetivo es contar con un CV:
 
 ---
 
-## 🌐 Demo
+## 🌐 Enlace de publicación
 
 👉 https://mkrmx.github.io/cv/
 
@@ -49,7 +50,8 @@ El objetivo es contar con un CV:
 
 ## 🖨️ Exportar a PDF
 
-El CV puede exportarse a PDF directamente desde el navegador utilizando la funcionalidad de impresión o mediante el botón incluido en la interfaz.
+El CV puede exportarse a PDF directamente desde el navegador utilizando la funcionalidad de
+impresión o mediante el botón incluido en la interfaz.
 
 Configuración recomendada:
 - Tamaño: A4
@@ -90,4 +92,3 @@ Consulta el archivo [LICENSE](LICENSE).
 El contenido del CV (texto, experiencia, descripciones) está licenciado bajo
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 Consulta el archivo [CONTENT_LICENSE](CONTENT_LICENSE).
-

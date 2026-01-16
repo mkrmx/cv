@@ -20,7 +20,7 @@ body {
 }
 
 /* =========================
-   Contenedor principal (A4)
+   Contenedor principal
    ========================= */
 #cv {
     width: 210mm;
@@ -92,7 +92,6 @@ body {
    ========================= */
 .cv-section {
     margin-top: 22px;
-    page-break-inside: avoid;
 }
 
 .cv-section h2 {
@@ -110,7 +109,6 @@ body {
    ========================= */
 .cv-item {
     margin-bottom: 14px;
-    page-break-inside: avoid;
 }
 
 .cv-item h3 {
@@ -172,7 +170,7 @@ body {
 }
 
 /* =========================
-   Education
+   Educación
    ========================= */
 
 .cv-org {
@@ -198,8 +196,8 @@ body {
    ========================= */
 @media print {
     @page {
-        size: A4;
-        margin: 20mm;
+        size: letter;
+        margin: 10mm;
     }
 
     body {
